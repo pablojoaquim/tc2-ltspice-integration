@@ -1,0 +1,9 @@
+# python-dotenv==0.19.2
+# Flask==2.0.2
+# marshmallow==3.14.1
+# gunicorn==20.1.0
+# gevent==21.12.0
+# anytree==2.8.0
+control==0.9.3
+matplotlib==3.6.1
+PyLTSpice==3.1
