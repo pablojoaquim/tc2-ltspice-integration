@@ -1,7 +1,6 @@
-## GENERETING DOCKER IMAGE
-#### CLONE THE REPO , ADD VARIABLES TO env_variables.env , and then run the following Docker commands:
-
-```console
-docker build -f Dockerfile -t app:latest .
-docker run -p 5000:5000 app
+## HOW TO RUN THE LTSPICE SIMULATION
+The python script shall run from the folder where the ltspice netlist file (.asc) is located. So, move to the
+folder [Project]/ltspice -> The run:
+```
+python ../src/main.py
 ```
